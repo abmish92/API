@@ -1,0 +1,13 @@
+Could not calculate build plan: Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+Plugin org.apache.maven.plugins:maven-resources-plugin:2.6 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-resources-plugin:jar:2.6
+
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+
+API(Maven)-
+Go to Project - props-files path - gotomyapp- paste project - go into pom file - select project file and change it to project name - mvn site 
+
+Maven lifecycle- clean, build, test, deploy, validate
+
+https://drive.google.com/file/d/1Nz2Hhkz7OpfwxDJoK9PDsfbXZ1EDOSEr/view
+
+ssh-dss AAAAB3NzaC1kc3MAAACBAP1/U4EddRIpUt9KnC7s5Of2EbdSPO9EAMMeP4C2USZpRV1AIlH7WT2NWPq/xfW6MPbLm1Vs14E7gB00b/JmYLdrmVClpJ+f6AR7ECLCT7up1/63xhv4O1fnxqimFQ8E+4P208UewwI1VBNaFpEy9nXzrith1yrv8iIDGZ3RSAHHAAAAFQCXYFCPFSMLzLKSuYKi64QL8Fgc9QAAAIEA9+GghdabPd7LvKtcNrhXuXmUr7v6OuqC+VdMCz0HgmdRWVeOutRZT+ZxBxCBgLRJFnEj6EwoFhO3zwkyjMim4TwWeotUfI0o4KOuHiuzpnWRbqN/C/ohNWLx+2J6ASQ7zKTxvqhRkImog9/hWuWfBpKLZl6Ae1UlZAFMO/7PSSoAAACACpmIj5GDCEYFXqnumM8iMicx0Sya8U36J1B82c7wVlyCOx5F/y1nqZD1yQ+WvVlOk8Wda/qeIhRr7UVcV2DJcagqcOi0OledP7BteD7cweaIZViyZP4AHk+ZieW0vEmyBZneI3fo11AO06bUyAy3Hp+UrqD80UmqEziXFijYspA= DSA-1024
